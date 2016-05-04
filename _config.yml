@@ -1,0 +1,28 @@
+name: moderndomestic
+favicon: null
+layout_spectrum: 0.41953057423233986
+typography_spectrum: 0.2857145289890468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.386791224591434
+  lightness: 0.7181365857832134
+  saturation: 0.8891482988838106
+  rhythmicContrast: 0.4800631641410291
+purpose: []
